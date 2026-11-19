@@ -1,7 +1,7 @@
 {
-  "versionCode": 109,
-  "versionName": "2.18.9",
-  "apkUrl": "https://aka.doubaocdn.com/s/BDUHwWkODM",
-  "sha256": "9a8b9f9b396f0898b020d3603d47cc5b76660499215a8e3bb164ac608a0b8fc9",
-  "changelog": "悬浮球改为点一次进入听：单击开始录音，说完再点一次结束并识别，8 秒自动结束兜底，不用再按住。"
+  "versionCode": 110,
+  "versionName": "2.19.0",
+  "apkUrl": "https://aka.doubaocdn.com/s/Y7Eiv6a46F",
+  "sha256": "ce6ec76f0acda84e57b1ff8c3984091c6e62d5e483f9a844a536f7aaa4041620",
+  "changelog": "静音收尾从 1.5 秒放到 2.5 秒，并且要先听到人声才开始计时，说话中间停顿不会再被截断。"
 }
