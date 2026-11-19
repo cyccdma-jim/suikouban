@@ -1,7 +1,7 @@
 {
-  "versionCode": 115,
-  "versionName": "2.19.5",
-  "apkUrl": "https://aka.doubaocdn.com/s/7jJPAFNwJa",
-  "sha256": "6b0b253d8c24609d0f1a38f617f3933bf9da5ac699ce98c01442fd7f3bf097c3",
-  "changelog": "修复繁体界面/日志错字：字表改为分隔符结构，根除非BMP字符导致的整表错位"
+  "versionCode": 116,
+  "versionName": "2.19.6",
+  "apkUrl": "https://aka.doubaocdn.com/s/fDPcMAZsJr",
+  "sha256": "ff5f0a3ea0d57cd151207c1f823a8e1bbfc93097b416011f49cb7da4421fb315",
+  "changelog": "修复首页自动弹键盘遮挡常用指令芯片、执行后键盘不收起，支持连续点击多条芯片"
 }
