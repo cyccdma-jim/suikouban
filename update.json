@@ -1,7 +1,7 @@
 {
-  "versionCode": 127,
-  "versionName": "2.19.17",
-  "apkUrl": "https://aka.doubaocdn.com/s/V0Hmela8fg",
-  "sha256": "93382c0b6224c586a2a7622415e0cc61bf1b65647f25bc496a5b2141450e5d01",
-  "changelog": "接入百度短语音识别(Key填APIKey|SecretKey)，默认服务改为百度；Token自动缓存续期；错误码中文化"
+  "versionCode": 128,
+  "versionName": "2.19.18",
+  "apkUrl": "https://aka.doubaocdn.com/s/PLrHwOkMND",
+  "sha256": "f514360b49d336341f8544b3d67af69dcaf5f543062da0c322559d2ed0ebcb40",
+  "changelog": "修复录音自动收尾后卡死不动的问题；录音结束回主线程；默认接百度短语音识别"
 }
