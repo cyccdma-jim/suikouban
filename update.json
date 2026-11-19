@@ -1,7 +1,7 @@
 {
-  "versionCode": 130,
-  "versionName": "2.19.20",
-  "apkUrl": "https://aka.doubaocdn.com/s/Ba8ykWJANn",
-  "sha256": "784e70147699e559d2871b6857297d608da2e4753420ee20df911e88366b5e08",
-  "changelog": "云端大脑「去注册领免费 Key」胶囊改为跳转硅基流动控制台"
+  "versionCode": 131,
+  "versionName": "2.19.21",
+  "apkUrl": "https://aka.doubaocdn.com/s/PEWrt5PKOK",
+  "sha256": "c5195c016519b639813e74c89ceb7b26819dc7d0b834cfa40d613e5d6f93968d",
+  "changelog": "修注册链接打开成电脑版：改为选择手机浏览器打开并复制链接到剪贴板"
 }
