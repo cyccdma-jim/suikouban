@@ -1,7 +1,7 @@
 {
-  "versionCode": 122,
-  "versionName": "2.19.12",
-  "apkUrl": "https://aka.doubaocdn.com/s/sZOwgDSxKE",
-  "sha256": "93cc47f3488eda591ebeb944a5d99aaef1bae0215df705e1e5d20a8d3d5aa2eb",
-  "changelog": "新增云端语音识别开关（在启用云端规划后），云端规划默认关闭"
+  "versionCode": 123,
+  "versionName": "2.19.13",
+  "apkUrl": "https://aka.doubaocdn.com/s/qXUYXS2p0V",
+  "sha256": "56c87511bdd089940b4397bc646af100183fb5d210e3a6cea730d6dc4102afb6",
+  "changelog": "云端规划默认开、云端语音识别默认关；修复第二次录音峰值恒为 0（自动重建录音器重试）"
 }
