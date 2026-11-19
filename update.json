@@ -1,7 +1,7 @@
 {
-  "versionCode": 125,
-  "versionName": "2.19.15",
-  "apkUrl": "https://aka.doubaocdn.com/s/TI9Kw1MFt4",
-  "sha256": "0d30c1f28a1ff0e54b82d38bc3aaf9afb4a2c6c24fd47bfbfd3c299b47bd3f2c",
-  "changelog": "离线语音包换更大的中文模型（约215MB，更准）；下载支持断点续传+重试3次，修60%处timeout；修确认框仍写71MB"
+  "versionCode": 126,
+  "versionName": "2.19.16",
+  "apkUrl": "https://aka.doubaocdn.com/s/pgxOz3xAEn",
+  "sha256": "bf2a719fdffaa699b5fa6b787476bd4902bc5877f8a0f45e725ae6024f1af3aa",
+  "changelog": "云端语音识别改为可填服务地址/Key/模型名，默认预置Groq whisper；失败自动回落本机离线"
 }
