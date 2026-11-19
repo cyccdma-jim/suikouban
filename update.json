@@ -1,7 +1,7 @@
 {
-  "versionCode": 113,
-  "versionName": "2.19.3",
-  "apkUrl": "https://aka.doubaocdn.com/s/X14HjnUr01",
-  "sha256": "bc7c4451e881fb72655f62ad88b061d23fb5f4119826452aecad33a7335a05b7",
-  "changelog": "修掉繁体界面夹简体的根因：跟随系统时按系统 Locale 判定语言，配全量简繁字表。"
+  "versionCode": 114,
+  "versionName": "2.19.4",
+  "apkUrl": "https://aka.doubaocdn.com/s/hhBrrE10h4",
+  "sha256": "881204f5ef598543bfd145e911cdda4d69f12cf77b50d43a4ec2b3f251aaa18d",
+  "changelog": "繁体再补一道整词表：五条常用指令与日志常用句直接给繁体原文，界面不再露简体。"
 }
