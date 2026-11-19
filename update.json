@@ -1,7 +1,7 @@
 {
-  "versionCode": 107,
-  "versionName": "2.18.7",
-  "apkUrl": "https://aka.doubaocdn.com/s/sPo14xHGmn",
-  "sha256": "f46306ef90404786cf213b1a8c86689426e636da9d463604b75551b8b4434869",
-  "changelog": "修复邀请加天方向反了：填邀请码/回报码原本会少 7 天，现在正确加 7 天。"
+  "versionCode": 108,
+  "versionName": "2.18.8",
+  "apkUrl": "https://aka.doubaocdn.com/s/flk9mUS3kT",
+  "sha256": "8402012f0633d04eb5b73c74c08a37900cd17281fdf4580997446f0ecfd228c6",
+  "changelog": "真机修复：无障碍掉线会明确提示关一次再开、缺修改系统设置权限时提示在列表里打开开关、TTS 没有中文语音包时提示并可一键去装。"
 }
