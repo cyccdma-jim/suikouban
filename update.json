@@ -1,7 +1,7 @@
 {
-  "versionCode": 118,
-  "versionName": "2.19.8",
-  "apkUrl": "https://aka.doubaocdn.com/s/U4Vt4aT4Vg",
-  "sha256": "45b73b565c1397bbc647e9dad9b21004bf4b07d3a3fa02a1ca64429e7f7e3dee",
-  "changelog": "语音按钮改为点按式（点一下开始、再点一下结束识别）；录音 8 秒上限、静音 2.5 秒收尾；麦克风无声时明确提示"
+  "versionCode": 120,
+  "versionName": "2.19.10",
+  "apkUrl": "https://aka.doubaocdn.com/s/OxQvDLb6M5",
+  "sha256": "94a9980ff386bdaedcc8f77886a1effd79f72765b119f9da40824cc54a8416a6",
+  "changelog": "修悬浮球第二次听不到；语气词不再误执行；云端重复同一动作自动停止"
 }
