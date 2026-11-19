@@ -1,7 +1,7 @@
 {
-  "versionCode": 112,
-  "versionName": "2.19.2",
-  "apkUrl": "https://aka.doubaocdn.com/s/UzQ4A2hTKl",
-  "sha256": "ee616104af84c04949bfe4873539e2f70816812407e587e3d74dcfa1a3168424",
-  "changelog": "繁体界面不再夹简体：简繁字符表换成全量 2606 字对，界面与日志统一。"
+  "versionCode": 113,
+  "versionName": "2.19.3",
+  "apkUrl": "https://aka.doubaocdn.com/s/X14HjnUr01",
+  "sha256": "bc7c4451e881fb72655f62ad88b061d23fb5f4119826452aecad33a7335a05b7",
+  "changelog": "修掉繁体界面夹简体的根因：跟随系统时按系统 Locale 判定语言，配全量简繁字表。"
 }
