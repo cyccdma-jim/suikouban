@@ -1,7 +1,7 @@
 {
-  "versionCode": 126,
-  "versionName": "2.19.16",
-  "apkUrl": "https://aka.doubaocdn.com/s/pgxOz3xAEn",
-  "sha256": "bf2a719fdffaa699b5fa6b787476bd4902bc5877f8a0f45e725ae6024f1af3aa",
-  "changelog": "云端语音识别改为可填服务地址/Key/模型名，默认预置Groq whisper；失败自动回落本机离线"
+  "versionCode": 127,
+  "versionName": "2.19.17",
+  "apkUrl": "https://aka.doubaocdn.com/s/V0Hmela8fg",
+  "sha256": "93382c0b6224c586a2a7622415e0cc61bf1b65647f25bc496a5b2141450e5d01",
+  "changelog": "接入百度短语音识别(Key填APIKey|SecretKey)，默认服务改为百度；Token自动缓存续期；错误码中文化"
 }
