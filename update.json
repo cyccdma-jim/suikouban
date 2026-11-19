@@ -1,7 +1,7 @@
 {
-  "versionCode": 129,
-  "versionName": "2.19.19",
-  "apkUrl": "https://aka.doubaocdn.com/s/xKnkNRbAAV",
-  "sha256": "38b429e5b30c1cb08c83f5842b00fcc4b7690187998d3dd3983f06ae9f77425b",
-  "changelog": "云端识别默认改回硅基流动(SenseVoiceSmall免费模型)；设置页新增「用硅基流动/用百度」一键切换"
+  "versionCode": 130,
+  "versionName": "2.19.20",
+  "apkUrl": "https://aka.doubaocdn.com/s/Ba8ykWJANn",
+  "sha256": "784e70147699e559d2871b6857297d608da2e4753420ee20df911e88366b5e08",
+  "changelog": "云端大脑「去注册领免费 Key」胶囊改为跳转硅基流动控制台"
 }
