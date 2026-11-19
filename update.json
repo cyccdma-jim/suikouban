@@ -1,7 +1,7 @@
 {
-  "versionCode": 117,
-  "versionName": "2.19.7",
-  "apkUrl": "https://aka.doubaocdn.com/s/VtPnYuAIwL",
-  "sha256": "10a19599533d792a737d347b2f4e522a695b55929ad91b03d486f08816547f57",
-  "changelog": "新增「打开设置」「亮度调到 60%」两条常用指令；真机回归读短信、清理无用垃圾、打开设置、调亮度四条全部通过"
+  "versionCode": 118,
+  "versionName": "2.19.8",
+  "apkUrl": "https://aka.doubaocdn.com/s/U4Vt4aT4Vg",
+  "sha256": "45b73b565c1397bbc647e9dad9b21004bf4b07d3a3fa02a1ca64429e7f7e3dee",
+  "changelog": "语音按钮改为点按式（点一下开始、再点一下结束识别）；录音 8 秒上限、静音 2.5 秒收尾；麦克风无声时明确提示"
 }
