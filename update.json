@@ -1,7 +1,7 @@
 {
-  "versionCode": 108,
-  "versionName": "2.18.8",
-  "apkUrl": "https://aka.doubaocdn.com/s/flk9mUS3kT",
-  "sha256": "8402012f0633d04eb5b73c74c08a37900cd17281fdf4580997446f0ecfd228c6",
-  "changelog": "真机修复：无障碍掉线会明确提示关一次再开、缺修改系统设置权限时提示在列表里打开开关、TTS 没有中文语音包时提示并可一键去装。"
+  "versionCode": 109,
+  "versionName": "2.18.9",
+  "apkUrl": "https://aka.doubaocdn.com/s/BDUHwWkODM",
+  "sha256": "9a8b9f9b396f0898b020d3603d47cc5b76660499215a8e3bb164ac608a0b8fc9",
+  "changelog": "悬浮球改为点一次进入听：单击开始录音，说完再点一次结束并识别，8 秒自动结束兜底，不用再按住。"
 }
