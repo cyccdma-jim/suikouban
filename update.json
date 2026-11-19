@@ -1,0 +1,7 @@
+{
+  "versionCode": 103,
+  "versionName": "2.18.3",
+  "apkUrl": "https://aka.doubaocdn.com/s/L6K5cNUsed",
+  "sha256": "059d57d5bfa825e965d195d3921673c29f5c12d8ab01b90bc9864c189cc33e84",
+  "changelog": "更新清单改到固定地址：GitHub raw 为主、jsDelivr 为镜像、CDN 为兜底，三个地址依次尝试；以后发版只改仓库里的 update.json，老版本也能看到最新版。"
+}
