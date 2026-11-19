@@ -1,7 +1,7 @@
 {
-  "versionCode": 110,
-  "versionName": "2.19.0",
-  "apkUrl": "https://aka.doubaocdn.com/s/H8hXIwqfn2",
-  "sha256": "b6d3ad3a32c2a51b3dfd7ca4a0d8b786924471800cf9aee3d37fcaff9e29db79",
-  "changelog": "静音收尾从 1.5 秒放到 2.5 秒，并且要先听到人声才开始计时，说话中间停顿不会再被截断。"
+  "versionCode": 111,
+  "versionName": "2.19.1",
+  "apkUrl": "https://aka.doubaocdn.com/s/KUJhrHuMni",
+  "sha256": "af3f8402987e6440a7b3d3304ef321fe3eacba57e06e7aa254a6286decf10aed",
+  "changelog": "界面文案多语言补漏：常用指令芯片在繁体/日/韩界面下不再夹简体，另补齐 6 条缺失文案。"
 }
