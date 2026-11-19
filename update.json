@@ -1,7 +1,7 @@
 {
-  "versionCode": 132,
-  "versionName": "2.19.22",
-  "apkUrl": "https://aka.doubaocdn.com/s/Yun8RSpE6k",
-  "sha256": "59cc1dcaf2ff82700e798a5c8ee49313bb60f17b5b93a30eac4c7dc8bccc28ca",
-  "changelog": "注册领Key改为App内WebView移动版打开，修电脑版显示错乱"
+  "versionCode": 133,
+  "versionName": "2.19.23",
+  "apkUrl": "https://aka.doubaocdn.com/s/lcW8AU9UnC",
+  "sha256": "f2153cc585af212a98cb60ad1b10ee7aa8677addc875ed1a9fd5496cc290d693",
+  "changelog": "打电话给某人：通讯录匹配姓名→拨号页预填号码，日志点名，一键拨出"
 }
