@@ -1,7 +1,7 @@
 {
-  "versionCode": 121,
-  "versionName": "2.19.11",
-  "apkUrl": "https://aka.doubaocdn.com/s/U7aHTresgP",
-  "sha256": "5843b4379636b040692beeae3b5b87dd5d3b84c4ab2dcadb9e01288040aaf51c",
-  "changelog": "明确提示云端语音识别额度不足并降级离线识别"
+  "versionCode": 122,
+  "versionName": "2.19.12",
+  "apkUrl": "https://aka.doubaocdn.com/s/sZOwgDSxKE",
+  "sha256": "93cc47f3488eda591ebeb944a5d99aaef1bae0215df705e1e5d20a8d3d5aa2eb",
+  "changelog": "新增云端语音识别开关（在启用云端规划后），云端规划默认关闭"
 }
