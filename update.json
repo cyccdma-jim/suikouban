@@ -1,7 +1,7 @@
 {
   "versionCode": 110,
   "versionName": "2.19.0",
-  "apkUrl": "https://aka.doubaocdn.com/s/Y7Eiv6a46F",
-  "sha256": "ce6ec76f0acda84e57b1ff8c3984091c6e62d5e483f9a844a536f7aaa4041620",
+  "apkUrl": "https://aka.doubaocdn.com/s/H8hXIwqfn2",
+  "sha256": "b6d3ad3a32c2a51b3dfd7ca4a0d8b786924471800cf9aee3d37fcaff9e29db79",
   "changelog": "静音收尾从 1.5 秒放到 2.5 秒，并且要先听到人声才开始计时，说话中间停顿不会再被截断。"
 }
