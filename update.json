@@ -1,7 +1,7 @@
 {
-  "versionCode": 106,
-  "versionName": "2.18.6",
-  "apkUrl": "https://aka.doubaocdn.com/s/UAZ7y62y9m",
-  "sha256": "0b9da30f58531ea9bf745229cde39c3b67f9fc4394d408a0bfcbaf0c59c0618b",
-  "changelog": "修复邀请码填不进去的问题：码前缀被易混字符归一化改坏，现在 INV/BCK 前缀原样保留。"
+  "versionCode": 107,
+  "versionName": "2.18.7",
+  "apkUrl": "https://aka.doubaocdn.com/s/sPo14xHGmn",
+  "sha256": "f46306ef90404786cf213b1a8c86689426e636da9d463604b75551b8b4434869",
+  "changelog": "修复邀请加天方向反了：填邀请码/回报码原本会少 7 天，现在正确加 7 天。"
 }
