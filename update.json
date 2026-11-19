@@ -1,7 +1,7 @@
 {
-  "versionCode": 116,
-  "versionName": "2.19.6",
-  "apkUrl": "https://aka.doubaocdn.com/s/fDPcMAZsJr",
-  "sha256": "ff5f0a3ea0d57cd151207c1f823a8e1bbfc93097b416011f49cb7da4421fb315",
-  "changelog": "修复首页自动弹键盘遮挡常用指令芯片、执行后键盘不收起，支持连续点击多条芯片"
+  "versionCode": 117,
+  "versionName": "2.19.7",
+  "apkUrl": "https://aka.doubaocdn.com/s/VtPnYuAIwL",
+  "sha256": "10a19599533d792a737d347b2f4e522a695b55929ad91b03d486f08816547f57",
+  "changelog": "新增「打开设置」「亮度调到 60%」两条常用指令；真机回归读短信、清理无用垃圾、打开设置、调亮度四条全部通过"
 }
