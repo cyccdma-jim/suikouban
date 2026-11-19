@@ -1,7 +1,7 @@
 {
-  "versionCode": 105,
-  "versionName": "2.18.5",
-  "apkUrl": "https://aka.doubaocdn.com/s/pwICW65AQ4",
-  "sha256": "35c29240c3f65c8f5e270f6b5959e997faa0950a9bb1f419b1f9afee042db805",
-  "changelog": "新增邀请有礼：邮件分享带你的邀请码，好友填码双方各得 7 天；每人最多 3 次，回报码一码一用。"
+  "versionCode": 106,
+  "versionName": "2.18.6",
+  "apkUrl": "https://aka.doubaocdn.com/s/UAZ7y62y9m",
+  "sha256": "0b9da30f58531ea9bf745229cde39c3b67f9fc4394d408a0bfcbaf0c59c0618b",
+  "changelog": "修复邀请码填不进去的问题：码前缀被易混字符归一化改坏，现在 INV/BCK 前缀原样保留。"
 }
