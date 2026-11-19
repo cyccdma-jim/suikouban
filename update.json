@@ -1,7 +1,7 @@
 {
-  "versionCode": 133,
-  "versionName": "2.19.23",
-  "apkUrl": "https://aka.doubaocdn.com/s/lcW8AU9UnC",
-  "sha256": "f2153cc585af212a98cb60ad1b10ee7aa8677addc875ed1a9fd5496cc290d693",
-  "changelog": "打电话给某人：通讯录匹配姓名→拨号页预填号码，日志点名，一键拨出"
+  "versionCode": 134,
+  "versionName": "2.19.24",
+  "apkUrl": "https://aka.doubaocdn.com/s/ZUr5Zsaxxb",
+  "sha256": "3a581e6f8968366999c2e6cbc2c0e445b579bd7adcdebea3f29c9b2e9e2610fe",
+  "changelog": "语音修复：录音增益(峰值84→放大到20000)、静音阈值随底噪自适应、识别文本去重、拨号失败不再交云端乱点"
 }
