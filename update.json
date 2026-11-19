@@ -1,7 +1,7 @@
 {
-  "versionCode": 114,
-  "versionName": "2.19.4",
-  "apkUrl": "https://aka.doubaocdn.com/s/hhBrrE10h4",
-  "sha256": "881204f5ef598543bfd145e911cdda4d69f12cf77b50d43a4ec2b3f251aaa18d",
-  "changelog": "繁体再补一道整词表：五条常用指令与日志常用句直接给繁体原文，界面不再露简体。"
+  "versionCode": 115,
+  "versionName": "2.19.5",
+  "apkUrl": "https://aka.doubaocdn.com/s/7jJPAFNwJa",
+  "sha256": "6b0b253d8c24609d0f1a38f617f3933bf9da5ac699ce98c01442fd7f3bf097c3",
+  "changelog": "修复繁体界面/日志错字：字表改为分隔符结构，根除非BMP字符导致的整表错位"
 }
