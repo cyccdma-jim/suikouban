@@ -1,7 +1,7 @@
 {
-  "versionCode": 104,
-  "versionName": "2.18.4",
-  "apkUrl": "https://aka.doubaocdn.com/s/F1sUQi1UTt",
-  "sha256": "b3fc13a9efd2637d5614e398c014b9fffb3a877d62741c4edffdf979efb20f06",
-  "changelog": "检查更新改用最新清单：请求带时间戳并禁用本地缓存，发版后立刻能看到，不用再等 CDN 缓存。语音唤醒默认关闭。"
+  "versionCode": 105,
+  "versionName": "2.18.5",
+  "apkUrl": "https://aka.doubaocdn.com/s/pwICW65AQ4",
+  "sha256": "35c29240c3f65c8f5e270f6b5959e997faa0950a9bb1f419b1f9afee042db805",
+  "changelog": "新增邀请有礼：邮件分享带你的邀请码，好友填码双方各得 7 天；每人最多 3 次，回报码一码一用。"
 }
