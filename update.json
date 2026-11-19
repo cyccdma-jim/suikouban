@@ -1,1 +1,7 @@
-{"versionCode":104,"versionName":"2.18.4","apkUrl":"https://aka.doubaocdn.com/s/L6K5cNUsed","sha256":"059d57d5bfa825e965d195d3921673c29f5c12d8ab01b90bc9864c189cc33e84","changelog":"链路验证用的临时条目，验证完撤回。"}
+{
+  "versionCode": 104,
+  "versionName": "2.18.4",
+  "apkUrl": "https://aka.doubaocdn.com/s/F1sUQi1UTt",
+  "sha256": "b3fc13a9efd2637d5614e398c014b9fffb3a877d62741c4edffdf979efb20f06",
+  "changelog": "检查更新改用最新清单：请求带时间戳并禁用本地缓存，发版后立刻能看到，不用再等 CDN 缓存。语音唤醒默认关闭。"
+}
