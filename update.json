@@ -1,7 +1,7 @@
 {
-  "versionCode": 131,
-  "versionName": "2.19.21",
-  "apkUrl": "https://aka.doubaocdn.com/s/PEWrt5PKOK",
-  "sha256": "c5195c016519b639813e74c89ceb7b26819dc7d0b834cfa40d613e5d6f93968d",
-  "changelog": "修注册链接打开成电脑版：改为选择手机浏览器打开并复制链接到剪贴板"
+  "versionCode": 132,
+  "versionName": "2.19.22",
+  "apkUrl": "https://aka.doubaocdn.com/s/Yun8RSpE6k",
+  "sha256": "59cc1dcaf2ff82700e798a5c8ee49313bb60f17b5b93a30eac4c7dc8bccc28ca",
+  "changelog": "注册领Key改为App内WebView移动版打开，修电脑版显示错乱"
 }
