@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "1.4",
-  "apkUrl": "https://aka.doubaocdn.com/s/5Xov77HAIW",
-  "sha256": "8bacf2b697ef3f0725e04e3fe68f0ac44d839d18a7ffdc4585f53ef5f7379702",
-  "changelog": "1.4 版：分析引擎（智谱 GLM-4-Flash）与密钥已内置进包，设置页不再显示、无需填写，装好即用；新增「历史分析报告」，每次分析在 App 内留一份，可随时回看、可重发到邮箱；授权码改为先在线校验，连不上服务端自动离线兜底；覆盖安装保留档案、记录与激活状态。"
+  "versionCode": 7,
+  "versionName": "1.5",
+  "apkUrl": "https://aka.doubaocdn.com/s/7sNMvCL0gE",
+  "sha256": "dda464a1c40f9a7d77faa2ba2377c38bf01cc97ec26006f3503f9529665502a8",
+  "changelog": "1.5 版：邮件改为服务器邮箱代发——由 cyccdma@zohomail.com 自动发给你，设置页只填自己的收件邮箱，不用再配 SMTP 授权码、主机、端口；点「拉了」后自动分析，App 内留一份报告，同时把同一份内容发到你邮箱；发送失败不丢报告，可在「历史分析报告」里重发。覆盖安装保留档案、记录与激活。"
 }
