@@ -1,7 +1,7 @@
 {
-  "versionCode": 134,
-  "versionName": "2.19.24",
-  "apkUrl": "https://aka.doubaocdn.com/s/ZUr5Zsaxxb",
-  "sha256": "3a581e6f8968366999c2e6cbc2c0e445b579bd7adcdebea3f29c9b2e9e2610fe",
-  "changelog": "语音修复：录音增益(峰值84→放大到20000)、静音阈值随底噪自适应、识别文本去重、拨号失败不再交云端乱点"
+  "versionCode": 135,
+  "versionName": "2.19.25",
+  "apkUrl": "https://aka.doubaocdn.com/s/oHMZWUdc0T",
+  "sha256": "daedc1f6f50086837f4670aa1859f762e2d9dabf71ee53eb4e457a3b98527e1e",
+  "changelog": "语音规则修复：手电/手电筒统一归到闪光灯(不漏字也能开)、打开不存在或听错的短词改为播报重说(不再带去应用商店)、录音尾部静音自动裁掉再识别"
 }
