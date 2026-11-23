@@ -1,7 +1,7 @@
 {
-  "versionCode": 135,
-  "versionName": "2.19.25",
-  "apkUrl": "https://aka.doubaocdn.com/s/oHMZWUdc0T",
-  "sha256": "daedc1f6f50086837f4670aa1859f762e2d9dabf71ee53eb4e457a3b98527e1e",
-  "changelog": "语音规则修复：手电/手电筒统一归到闪光灯(不漏字也能开)、打开不存在或听错的短词改为播报重说(不再带去应用商店)、录音尾部静音自动裁掉再识别"
+  "versionCode": 136,
+  "versionName": "2.19.26",
+  "apkUrl": "https://aka.doubaocdn.com/s/tY9qzcU6oN",
+  "sha256": "59cde22b9b9a6606930cb834d653d4e5f9662821435e97b670b8270a3b81d8a9",
+  "changelog": "语音三修实测通过：手电筒漏字照常开灯、听错成「首页」等短词改播报重说、录音尾部静音自动裁剪(8.3秒→2.2秒，识别快3倍)"
 }
