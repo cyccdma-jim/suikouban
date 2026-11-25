@@ -1,7 +1,7 @@
 {
-  "versionCode": 136,
-  "versionName": "2.19.26",
-  "apkUrl": "https://aka.doubaocdn.com/s/tY9qzcU6oN",
-  "sha256": "59cde22b9b9a6606930cb834d653d4e5f9662821435e97b670b8270a3b81d8a9",
-  "changelog": "语音三修实测通过：手电筒漏字照常开灯、听错成「首页」等短词改播报重说、录音尾部静音自动裁剪(8.3秒→2.2秒，识别快3倍)"
+  "versionCode": 137,
+  "versionName": "2.19.27",
+  "apkUrl": "https://aka.doubaocdn.com/s/F3eAYuhnBD",
+  "sha256": "1e66122035dfde45eff1bc61b184beeb1f4cdb9897f8661c9283f5d23b5f6956",
+  "changelog": "2.19.27：修五处——无障碍没开时「打开手电筒」不再被塞进等待队列后作废，本地规则命中 1 步直接开灯；「打开设置」这类确实需要无障碍的指令仍会排队，无障碍恢复后「打开计算器」「亮度调到 60%」回归通过。"
 }
